@@ -203,7 +203,7 @@ def main():
     #Обязательно установите use_context = True,
     #чтобы использовать новые обратные вызовы на основе контекста
     #Post version 12 this will no longer be necessary
-    updater = Updater("TOKEN", use_context=True)
+    updater = Updater("1582454440:AAGmoZw3rYOoVJ9ZI0Mz-2W03DcqEWdKE9w", use_context=True)
 
 
     #Создадим обработчик событий для команд
